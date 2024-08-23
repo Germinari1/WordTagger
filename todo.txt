@@ -1,0 +1,1 @@
+- add option to export tagging to txt file and maybe other formats
