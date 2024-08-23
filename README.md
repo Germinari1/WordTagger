@@ -1,4 +1,4 @@
-# Hidden Markov Model Part-of-Speech Tagger
+# WordTagger
 
 This project implements a Part-of-Speech (POS) tagger using a Hidden Markov Model (HMM). It's designed to analyze text and assign grammatical tags to each word, providing insights into the structure and meaning of sentences and demonstrate one use of Markov models.
 
