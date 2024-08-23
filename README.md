@@ -1,6 +1,6 @@
 # WordTagger
 
-This project implements a Part-of-Speech (POS) tagger using a Hidden Markov Model (HMM). It's designed to analyze text and assign grammatical tags to each word, providing insights into the structure and meaning of sentences and demonstrate one use of Markov models.
+This project implements a Part-of-Speech (POS) tagger using a Hidden Markov Model (HMM). It's designed to analyze text and assign grammatical tags to each word, providing insights into the structure and meaning of sentences and demonstrating one use of Markov models.
 
 Here are some things that you will find in this repository:
 - Train a Hidden Markov Model for POS tagging
@@ -19,8 +19,8 @@ Here are some things that you will find in this repository:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/hmm-pos-tagger.git
-   cd hmm-pos-tagger
+   git clone https://github.com/Germinari1/WordTagger.git
+   cd WordTagger
    ```
 
 2. Install the required packages:
